@@ -11,6 +11,7 @@ To write a python program for creating File Transfer using TCP Sockets Links
 Client:
 
 ![3c client](https://github.com/MANISHA21SS/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/147474298/f2278c00-9a29-4940-a525-a782b6f7f2d6)
+
 Server:
 
 ![3c server](https://github.com/MANISHA21SS/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/147474298/d48db6b8-f10c-49c0-a214-d13ebcdc1774)
