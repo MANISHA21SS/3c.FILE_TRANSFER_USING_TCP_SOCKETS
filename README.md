@@ -19,6 +19,7 @@ Server:
 Client:
 
 ![3c client output](https://github.com/MANISHA21SS/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/147474298/7f516ff0-e96c-40f8-88d6-e5a37f7f089d)
+
 Server:
 
 ![3c server output](https://github.com/MANISHA21SS/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/147474298/16a68e30-ebdd-428b-a43d-b3ed02269288)
